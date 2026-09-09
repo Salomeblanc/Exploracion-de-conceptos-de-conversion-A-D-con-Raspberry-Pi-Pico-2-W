@@ -3,6 +3,7 @@
 Práctica de laboratorio de **Comunicaciones Digitales** — Programa de Ingeniería en Telecomunicaciones, Universidad Militar Nueva Granada (UMNG).
 
 Autores: **Harol Felipe Riveros Sierra** (1401660) · **Salome Bohorquez Blanco** (1401654)
+
 Docente: Ing. José de Jesús Rugeles Uribe
 
 ## Descripción
